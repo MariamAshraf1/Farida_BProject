@@ -1,0 +1,128 @@
+Case ID,Activity,Resource,Complete Timestamp,Variant,Variant index,lifecycle:transition,concept:name,Amount_Req
+Case 1,A_SUBMITTED-COMPLETE,112,46:44.5,Variant 1,1,COMPLETE,A_SUBMITTED,20000
+Case 1,A_PARTLYSUBMITTED-COMPLETE,112,46:44.8,Variant 1,1,COMPLETE,A_PARTLYSUBMITTED,20000
+Case 1,A_PREACCEPTED-COMPLETE,112,47:37.9,Variant 1,1,COMPLETE,A_PREACCEPTED,20000
+Case 1,W_Completeren aanvraag-SCHEDULE,112,47:38.8,Variant 1,1,SCHEDULE,W_Completeren aanvraag,20000
+Case 1,W_Completeren aanvraag-START,,44:46.4,Variant 1,1,START,W_Completeren aanvraag,20000
+Case 1,A_ACCEPTED-COMPLETE,10862,50:43.3,Variant 1,1,COMPLETE,A_ACCEPTED,20000
+Case 1,O_SELECTED-COMPLETE,10862,53:09.2,Variant 1,1,COMPLETE,O_SELECTED,20000
+Case 1,A_FINALIZED-COMPLETE,10862,53:09.2,Variant 1,1,COMPLETE,A_FINALIZED,20000
+Case 1,O_CREATED-COMPLETE,10862,53:11.1,Variant 1,1,COMPLETE,O_CREATED,20000
+Case 1,O_SENT-COMPLETE,10862,53:11.3,Variant 1,1,COMPLETE,O_SENT,20000
+Case 1,W_Nabellen offertes-SCHEDULE,,53:11.5,Variant 1,1,SCHEDULE,W_Nabellen offertes,20000
+Case 1,W_Completeren aanvraag-COMPLETE,,53:13.9,Variant 1,1,COMPLETE,W_Completeren aanvraag,20000
+Case 1,W_Nabellen offertes-START,,23:41.2,Variant 1,1,START,W_Nabellen offertes,20000
+Case 1,W_Nabellen offertes-COMPLETE,,25:08.9,Variant 1,1,COMPLETE,W_Nabellen offertes,20000
+Case 1,W_Nabellen offertes-START,10913,34:57.7,Variant 1,1,START,W_Nabellen offertes,20000
+Case 1,W_Nabellen offertes-COMPLETE,10913,40:00.8,Variant 1,1,COMPLETE,W_Nabellen offertes,20000
+Case 1,W_Nabellen offertes-START,11049,40:22.4,Variant 1,1,START,W_Nabellen offertes,20000
+Case 1,O_SENT_BACK-COMPLETE,11049,41:03.6,Variant 1,1,COMPLETE,O_SENT_BACK,20000
+Case 1,W_Valideren aanvraag-SCHEDULE,11049,41:04.5,Variant 1,1,SCHEDULE,W_Valideren aanvraag,20000
+Case 1,W_Nabellen offertes-COMPLETE,11049,41:05.7,Variant 1,1,COMPLETE,W_Nabellen offertes,20000
+Case 1,W_Valideren aanvraag-START,10629,13:26.9,Variant 1,1,START,W_Valideren aanvraag,20000
+Case 1,A_REGISTERED-COMPLETE,10629,45:29.2,Variant 1,1,COMPLETE,A_REGISTERED,20000
+Case 1,A_APPROVED-COMPLETE,10629,45:29.2,Variant 1,1,COMPLETE,A_APPROVED,20000
+Case 1,O_ACCEPTED-COMPLETE,10629,45:29.2,Variant 1,1,COMPLETE,O_ACCEPTED,20000
+Case 1,A_ACTIVATED-COMPLETE,10629,45:29.2,Variant 1,1,COMPLETE,A_ACTIVATED,20000
+Case 1,W_Valideren aanvraag-COMPLETE,10629,45:37.0,Variant 1,1,COMPLETE,W_Valideren aanvraag,20000
+Case 1,End-End,End,45:37.0,Variant 1,1,End,End,End
+Case 2,A_SUBMITTED-COMPLETE,112,16:58.2,Variant 2,2,COMPLETE,A_SUBMITTED,5000
+Case 2,A_PARTLYSUBMITTED-COMPLETE,112,17:02.1,Variant 2,2,COMPLETE,A_PARTLYSUBMITTED,5000
+Case 2,A_PREACCEPTED-COMPLETE,112,17:56.6,Variant 2,2,COMPLETE,A_PREACCEPTED,5000
+Case 2,W_Completeren aanvraag-SCHEDULE,112,17:59.5,Variant 2,2,SCHEDULE,W_Completeren aanvraag,5000
+Case 2,W_Completeren aanvraag-START,,45:32.3,Variant 2,2,START,W_Completeren aanvraag,5000
+Case 2,W_Completeren aanvraag-COMPLETE,,51:13.1,Variant 2,2,COMPLETE,W_Completeren aanvraag,5000
+Case 2,W_Completeren aanvraag-START,,35:57.7,Variant 2,2,START,W_Completeren aanvraag,5000
+Case 2,A_ACCEPTED-COMPLETE,10862,41:54.6,Variant 2,2,COMPLETE,A_ACCEPTED,5000
+Case 2,A_FINALIZED-COMPLETE,10862,43:46.0,Variant 2,2,COMPLETE,A_FINALIZED,5000
+Case 2,O_SELECTED-COMPLETE,10862,43:46.0,Variant 2,2,COMPLETE,O_SELECTED,5000
+Case 2,O_CREATED-COMPLETE,10862,43:47.4,Variant 2,2,COMPLETE,O_CREATED,5000
+Case 2,O_SENT-COMPLETE,10862,43:47.5,Variant 2,2,COMPLETE,O_SENT,5000
+Case 2,W_Nabellen offertes-SCHEDULE,,43:47.6,Variant 2,2,SCHEDULE,W_Nabellen offertes,5000
+Case 2,W_Completeren aanvraag-COMPLETE,,43:48.7,Variant 2,2,COMPLETE,W_Completeren aanvraag,5000
+Case 2,W_Nabellen offertes-START,,44:13.4,Variant 2,2,START,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-COMPLETE,,44:25.7,Variant 2,2,COMPLETE,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-START,,02:43.2,Variant 2,2,START,W_Nabellen offertes,5000
+Case 2,O_SELECTED-COMPLETE,11120,04:17.7,Variant 2,2,COMPLETE,O_SELECTED,5000
+Case 2,O_CANCELLED-COMPLETE,11120,04:17.7,Variant 2,2,COMPLETE,O_CANCELLED,5000
+Case 2,O_CREATED-COMPLETE,11120,04:19.6,Variant 2,2,COMPLETE,O_CREATED,5000
+Case 2,O_SENT-COMPLETE,11120,04:19.6,Variant 2,2,COMPLETE,O_SENT,5000
+Case 2,W_Nabellen offertes-SCHEDULE,11049,04:19.9,Variant 2,2,SCHEDULE,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-COMPLETE,11049,04:21.1,Variant 2,2,COMPLETE,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-START,11049,04:34.7,Variant 2,2,START,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-COMPLETE,11049,05:16.5,Variant 2,2,COMPLETE,W_Nabellen offertes,5000
+Case 2,W_Nabellen offertes-START,11049,21:44.8,Variant 2,2,START,W_Nabellen offertes,5000
+Case 2,O_SENT_BACK-COMPLETE,11049,22:43.7,Variant 2,2,COMPLETE,O_SENT_BACK,5000
+Case 2,W_Valideren aanvraag-SCHEDULE,11049,22:44.0,Variant 2,2,SCHEDULE,W_Valideren aanvraag,5000
+Case 2,W_Nabellen offertes-COMPLETE,11049,22:45.5,Variant 2,2,COMPLETE,W_Nabellen offertes,5000
+Case 2,W_Valideren aanvraag-START,11049,20:36.6,Variant 2,2,START,W_Valideren aanvraag,5000
+Case 2,W_Valideren aanvraag-COMPLETE,11049,38:54.8,Variant 2,2,COMPLETE,W_Valideren aanvraag,5000
+Case 2,W_Valideren aanvraag-START,11049,19:42.1,Variant 2,2,START,W_Valideren aanvraag,5000
+Case 2,W_Valideren aanvraag-COMPLETE,11049,22:13.3,Variant 2,2,COMPLETE,W_Valideren aanvraag,5000
+Case 2,W_Valideren aanvraag-START,11049,22:52.8,Variant 2,2,START,W_Valideren aanvraag,5000
+Case 2,O_ACCEPTED-COMPLETE,11049,25:26.3,Variant 2,2,COMPLETE,O_ACCEPTED,5000
+Case 2,A_APPROVED-COMPLETE,11049,25:26.3,Variant 2,2,COMPLETE,A_APPROVED,5000
+Case 2,A_REGISTERED-COMPLETE,11049,25:26.3,Variant 2,2,COMPLETE,A_REGISTERED,5000
+Case 2,A_ACTIVATED-COMPLETE,11049,25:26.3,Variant 2,2,COMPLETE,A_ACTIVATED,5000
+Case 2,W_Valideren aanvraag-COMPLETE,11049,25:34.6,Variant 2,2,COMPLETE,W_Valideren aanvraag,5000
+Case 2,End-End,End,25:34.6,Variant 2,2,End,End,End
+Case 3,A_SUBMITTED-COMPLETE,112,18:30.2,Variant 3,3,COMPLETE,A_SUBMITTED,7000
+Case 3,A_PARTLYSUBMITTED-COMPLETE,112,18:30.5,Variant 3,3,COMPLETE,A_PARTLYSUBMITTED,7000
+Case 3,A_PREACCEPTED-COMPLETE,112,19:13.0,Variant 3,3,COMPLETE,A_PREACCEPTED,7000
+Case 3,W_Completeren aanvraag-SCHEDULE,112,19:13.3,Variant 3,3,SCHEDULE,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-START,10912,39:25.3,Variant 3,3,START,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-COMPLETE,10912,43:59.6,Variant 3,3,COMPLETE,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-START,,20:02.4,Variant 3,3,START,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-COMPLETE,,29:22.4,Variant 3,3,COMPLETE,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-START,11201,29:06.6,Variant 3,3,START,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-COMPLETE,11201,40:43.3,Variant 3,3,COMPLETE,W_Completeren aanvraag,7000
+Case 3,W_Completeren aanvraag-START,11201,40:52.8,Variant 3,3,START,W_Completeren aanvraag,7000
+Case 3,A_ACCEPTED-COMPLETE,11201,42:25.4,Variant 3,3,COMPLETE,A_ACCEPTED,7000
+Case 3,A_FINALIZED-COMPLETE,11201,48:14.6,Variant 3,3,COMPLETE,A_FINALIZED,7000
+Case 3,O_SELECTED-COMPLETE,11201,48:14.6,Variant 3,3,COMPLETE,O_SELECTED,7000
+Case 3,O_CREATED-COMPLETE,11201,48:15.6,Variant 3,3,COMPLETE,O_CREATED,7000
+Case 3,O_SENT-COMPLETE,11201,48:15.6,Variant 3,3,COMPLETE,O_SENT,7000
+Case 3,W_Nabellen offertes-SCHEDULE,11201,48:15.8,Variant 3,3,SCHEDULE,W_Nabellen offertes,7000
+Case 3,W_Completeren aanvraag-COMPLETE,11201,48:17.0,Variant 3,3,COMPLETE,W_Completeren aanvraag,7000
+Case 3,W_Nabellen offertes-START,11201,48:42.4,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,O_SELECTED-COMPLETE,11201,52:17.6,Variant 3,3,COMPLETE,O_SELECTED,7000
+Case 3,O_CANCELLED-COMPLETE,11201,52:17.6,Variant 3,3,COMPLETE,O_CANCELLED,7000
+Case 3,O_CREATED-COMPLETE,11201,52:19.6,Variant 3,3,COMPLETE,O_CREATED,7000
+Case 3,O_SENT-COMPLETE,11201,52:19.7,Variant 3,3,COMPLETE,O_SENT,7000
+Case 3,W_Nabellen offertes-SCHEDULE,11201,52:19.9,Variant 3,3,SCHEDULE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,11201,52:21.2,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,,54:59.8,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,,55:18.8,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,11119,37:54.1,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,11119,42:36.0,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,10912,23:44.6,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,10912,24:42.2,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,10861,49:28.3,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,O_SELECTED-COMPLETE,10861,51:53.5,Variant 3,3,COMPLETE,O_SELECTED,7000
+Case 3,O_CANCELLED-COMPLETE,10861,51:53.5,Variant 3,3,COMPLETE,O_CANCELLED,7000
+Case 3,O_CREATED-COMPLETE,10861,51:55.2,Variant 3,3,COMPLETE,O_CREATED,7000
+Case 3,O_SENT-COMPLETE,10861,51:55.3,Variant 3,3,COMPLETE,O_SENT,7000
+Case 3,W_Nabellen offertes-SCHEDULE,10861,51:56.4,Variant 3,3,SCHEDULE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,10861,51:57.7,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,,54:08.1,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,,58:48.1,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,11203,56:57.1,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,11203,58:22.0,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,11181,47:08.2,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,11181,49:29.5,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,1189,02:40.1,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,1189,03:35.0,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,11119,24:31.1,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-COMPLETE,11119,29:02.3,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Nabellen offertes-START,11049,19:44.2,Variant 3,3,START,W_Nabellen offertes,7000
+Case 3,O_SENT_BACK-COMPLETE,11049,23:16.2,Variant 3,3,COMPLETE,O_SENT_BACK,7000
+Case 3,W_Valideren aanvraag-SCHEDULE,11049,23:16.3,Variant 3,3,SCHEDULE,W_Valideren aanvraag,7000
+Case 3,W_Nabellen offertes-COMPLETE,11049,23:18.6,Variant 3,3,COMPLETE,W_Nabellen offertes,7000
+Case 3,W_Valideren aanvraag-START,10609,32:21.9,Variant 3,3,START,W_Valideren aanvraag,7000
+Case 3,O_ACCEPTED-COMPLETE,10609,12:52.6,Variant 3,3,COMPLETE,O_ACCEPTED,7000
+Case 3,A_APPROVED-COMPLETE,10609,12:52.6,Variant 3,3,COMPLETE,A_APPROVED,7000
+Case 3,A_REGISTERED-COMPLETE,10609,12:52.6,Variant 3,3,COMPLETE,A_REGISTERED,7000
+Case 3,A_ACTIVATED-COMPLETE,10609,12:52.6,Variant 3,3,COMPLETE,A_ACTIVATED,7000
+Case 3,W_Valideren aanvraag-COMPLETE,10609,13:01.5,Variant 3,3,COMPLETE,W_Valideren aanvraag,7000
+Case 3,W_Wijzigen contractgegevens-SCHEDULE,10912,37:26.2,Variant 3,3,SCHEDULE,W_Wijzigen contractgegevens,7000
+Case 3,End-End,End,37:26.2,Variant 3,3,End,End,End
